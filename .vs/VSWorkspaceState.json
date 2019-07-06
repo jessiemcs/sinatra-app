@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\db",
+    "\\db\\migrate",
+    "\\models"
+  ],
+  "SelectedNode": "\\routes.rb",
+  "PreviewInSolutionExplorer": false
+}

@@ -4,8 +4,10 @@
     "\\config",
     "\\db",
     "\\db\\migrate",
-    "\\models"
+    "\\models",
+    "\\views",
+    "\\views\\users"
   ],
-  "SelectedNode": "\\routes.rb",
+  "SelectedNode": "\\views\\users\\show.erb",
   "PreviewInSolutionExplorer": false
 }

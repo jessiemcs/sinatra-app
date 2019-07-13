@@ -1,0 +1,5 @@
+<h2>Hello, <%= @user.salutation %></h2>
+<ul><%= @user.tweets.each do |tweet|%>
+<ul><%= tweet.content%>at <%= tweet.date%></ul>
+<%end%>
+</ul>
